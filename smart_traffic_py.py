@@ -9,7 +9,7 @@ Original file is located at
 
 !pip install streamlit pyngrok pandas numpy scikit-learn matplotlib seaborn
 
-!ngrok config add-authtoken 2sqvDbkchvXeMi25hvSFHS6SiQh_7N9xnorij2fJfqHnM6CnJ
+!ngrok config add-authtoken "auth token"
 
 import pandas as pd
 import numpy as np
